@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T14:49:51.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="H6R5_-zstcum11Ah6kMn" version="24.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-26T14:52:40.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-5yPp9gLh5AU89U2nRyZ" version="24.1.0" type="github" pages="5">
   <diagram name="第 1 页" id="cPQb35P2niP3uAg26Fhb">
     <mxGraphModel dx="2022" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,40 +95,40 @@
           <mxGeometry x="14" y="667" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="303" y="593.5" width="476" height="166.5" as="geometry" />
+          <mxGeometry x="303" y="593.5" width="476" height="186.5" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-15" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="309" y="624.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="304" y="621.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-16" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="399" y="624.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="396" y="621.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-17" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="489" y="624.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="479" y="621.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-18" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="319" y="703.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="304" y="714.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-19" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="399" y="703.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="396" y="714.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-20" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="489" y="703.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="479" y="714.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-21" value="大数据平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="319" y="593.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-22" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="572" y="622.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="575" y="619.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-23" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="572" y="701.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="575" y="712.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-24" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="659" y="622.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="675" y="619.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-25" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="659" y="701.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="675" y="712.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-26" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="309" y="532.5" width="100" height="30" as="geometry" />
@@ -191,28 +191,28 @@
           <mxGeometry x="180" y="227" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-5" value="消息缓冲节点&lt;div&gt;kafka、redis、&lt;/div&gt;&lt;div&gt;flink&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="297" y="661.75" width="114" height="30" as="geometry" />
+          <mxGeometry x="297" y="659.5" width="114" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-6" value="管理节点1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="311" y="736.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="304" y="744.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-7" value="管理节点2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="393" y="733.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="396" y="744.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-8" value="数据节点1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="479" y="733.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="479" y="744.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-9" value="数据节点2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="569" y="733.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="575" y="744.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-10" value="数据节点3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="659" y="733.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="675" y="744.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-12" value="全文检索&lt;div&gt;redis、kafka、flink、ES&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="493" y="656.75" width="100" height="30" as="geometry" />
+          <mxGeometry x="479" y="659.5" width="100" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-13" value="MPP数据库1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="569" y="652.5" width="100" height="30" as="geometry" />
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-13" value="MPP数据库1&lt;div&gt;过车违法交通流、灯态、定位、地图数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="656.5" width="100" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="303" y="50" width="290" height="270" as="geometry" />
@@ -462,10 +462,10 @@
           <mxGeometry x="280" y="340" width="18" height="108" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-138" value="消息缓冲节点&lt;div&gt;kafka、redis、&lt;/div&gt;&lt;div&gt;flink&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="393" y="661.75" width="114" height="30" as="geometry" />
+          <mxGeometry x="389" y="659.5" width="114" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-139" value="MPP数据库2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="669" y="654.5" width="100" height="30" as="geometry" />
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-140" value="MPP数据库2&lt;div&gt;过车违法交通流、灯态、定位、地图数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="656.5" width="100" height="51.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
