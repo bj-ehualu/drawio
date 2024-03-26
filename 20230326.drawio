@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T14:52:40.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-5yPp9gLh5AU89U2nRyZ" version="24.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-26T14:53:34.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lCS-akCUbZZ1QvXEdMM3" version="24.1.0" type="github" pages="5">
   <diagram name="第 1 页" id="cPQb35P2niP3uAg26Fhb">
     <mxGraphModel dx="2022" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-12" value="全文检索&lt;div&gt;redis、kafka、flink、ES&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="479" y="659.5" width="100" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-13" value="MPP数据库1&lt;div&gt;过车违法交通流、灯态、定位、地图数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-13" value="MPP数据库1&lt;div&gt;过车、违法、交通流、灯态、定位、地图数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="656.5" width="100" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=0;" vertex="1" parent="1">
@@ -284,7 +284,7 @@
           <mxGeometry x="311" y="364.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-56" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="425.5" y="364.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="452" y="366.75" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-58" value="数据库+中间件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="303" y="326.5" width="139" height="30" as="geometry" />
@@ -293,16 +293,16 @@
           <mxGeometry x="313" y="422.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-60" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="425" y="422.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="451.5" y="424.75" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-61" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="543" y="422.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="599" y="425.25" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-65" value="MySQL数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="310" y="386.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-66" value="MySQL数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="415.5" y="386.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="442" y="388.75" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-68" value="中间件服务器&lt;div&gt;rabbitMQ/Nacos/Redis&lt;/div&gt;&lt;div&gt;APISIX/XXLJob&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="306" y="458.75" width="100" height="40.5" as="geometry" />
@@ -332,13 +332,13 @@
           <mxGeometry x="505.5" y="10" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-85" value="协同指挥作战&lt;div&gt;算法服务器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="550.5" y="384" width="100" height="30" as="geometry" />
+          <mxGeometry x="606.5" y="386.75" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-86" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="349" width="77" height="65" as="geometry" />
+          <mxGeometry x="616" y="351.75" width="77" height="65" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-87" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="548.5" y="357" width="100" height="30" as="geometry" />
+          <mxGeometry x="604.5" y="359.75" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-88" value="指调、安保、勤务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="303" y="149.5" width="100" height="30" as="geometry" />
@@ -380,10 +380,10 @@
           <mxGeometry x="482" y="260" width="113" height="73" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-105" value="中间件服务器&lt;div&gt;rabbitMQ/Nacos/Redis&lt;/div&gt;&lt;div&gt;APISIX/XXLJob&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="426.5" y="456.5" width="100" height="40.5" as="geometry" />
+          <mxGeometry x="453" y="458.75" width="100" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-106" value="中间件服务器&lt;div&gt;rabbitMQ/Nacos/Redis&lt;/div&gt;&lt;div&gt;APISIX/XXLJob&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="559" y="456" width="100" height="40.5" as="geometry" />
+          <mxGeometry x="615" y="458.75" width="100" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-107" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="115" y="820" width="100" height="30" as="geometry" />
@@ -464,8 +464,8 @@
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-138" value="消息缓冲节点&lt;div&gt;kafka、redis、&lt;/div&gt;&lt;div&gt;flink&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="389" y="659.5" width="114" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-140" value="MPP数据库2&lt;div&gt;过车违法交通流、灯态、定位、地图数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="675" y="656.5" width="100" height="51.25" as="geometry" />
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-140" value="MPP数据库2&lt;div&gt;过车、违法、交通流、灯态、定位、地图数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="656.5" width="105" height="51.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
