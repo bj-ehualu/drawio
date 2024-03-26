@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T13:28:54.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KJEAnjUNCqkhUw2urVBo" version="24.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-26T13:52:14.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UUYU7IJzvakzViU0GCG3" version="24.1.0" type="github" pages="5">
   <diagram name="第 1 页" id="cPQb35P2niP3uAg26Fhb">
     <mxGraphModel dx="1195" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="230" y="760" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nYv6kFoPLvJThOrqy7p-8" value="数据底座" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="576" width="60" height="30" as="geometry" />
+          <mxGeometry y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4nYv6kFoPLvJThOrqy7p-9" value="大数据平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="670" width="100" height="30" as="geometry" />
@@ -137,7 +137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 4 页" id="VzgvZbUCN_VonFsrliYI">
-    <mxGraphModel dx="1034" dy="-1295" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1287" dy="-1171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -391,7 +391,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="服务器机柜" id="6Oro0A-wJhBUSOKtrw6c">
-    <mxGraphModel dx="2449" dy="1807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3007" dy="2082" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
