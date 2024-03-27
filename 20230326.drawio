@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T07:01:55.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="z8ts2MzROTj8zmJvU-LE" version="24.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T07:39:35.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2eZ3BAAUDDxIzPWXMU6X" version="24.1.0" type="github" pages="7">
   <diagram name="服务器规划" id="cPQb35P2niP3uAg26Fhb">
-    <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,16 +131,16 @@
           <mxGeometry x="694" y="712.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-26" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="328" y="532.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="328" y="526.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-27" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="438" y="532.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="438" y="526.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-28" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="545.5" y="532.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="545.5" y="526.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldn1e8dhwG9sfUgh6E9c-29" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="667.5" y="532.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="667.5" y="526.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="90dyTnu_F-Gg9CWMDRyv-1" value="大数据节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="22" y="492" width="100" height="30" as="geometry" />
@@ -181,8 +181,8 @@
         <mxCell id="90dyTnu_F-Gg9CWMDRyv-14" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="26" y="64.5" width="71" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="90dyTnu_F-Gg9CWMDRyv-15" value="动静缓堵保畅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="17" y="228" width="100" height="30" as="geometry" />
+        <mxCell id="90dyTnu_F-Gg9CWMDRyv-15" value="动静缓堵保畅&lt;div&gt;uc&lt;/div&gt;&lt;div&gt;运维&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="17" y="228" width="100" height="42" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-1" value="动静缓堵保畅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="109" y="228" width="100" height="30" as="geometry" />
@@ -247,8 +247,8 @@
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-36" value="数资平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="558.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-37" value="数资平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="674.5" y="558.5" width="100" height="30" as="geometry" />
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-37" value="数资平台&lt;div&gt;（数据魔方、标签引擎、数据探查）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="671.5" y="558.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-40" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="329" y="233.25" width="100" height="30" as="geometry" />
@@ -298,11 +298,11 @@
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-61" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="641" y="419.25" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-65" value="MySQL数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-65" value="MySQL数据库（主）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="352" y="380.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-66" value="MySQL数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="484" y="382.75" width="100" height="30" as="geometry" />
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-66" value="MySQL数据库（从）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="484" y="382.75" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-68" value="中间件服务器&lt;div&gt;rabbitMQ/Nacos/Redis&lt;/div&gt;&lt;div&gt;APISIX/XXLJob&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="348" y="452.75" width="100" height="40.5" as="geometry" />
@@ -322,8 +322,8 @@
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-80" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="200" y="107.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-81" value="应用服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="22" y="139" width="100" height="30" as="geometry" />
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-81" value="应用服务器&lt;div&gt;违法、过车接入&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="28" y="141" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-83" value="视频专网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="122" y="10" width="71" height="30" as="geometry" />
@@ -376,8 +376,8 @@
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-103" value="事故研判、警务督察、重点车辆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="425" y="263.25" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-104" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;综合看板&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;数据魔方&lt;/div&gt;&lt;div&gt;&lt;b&gt;积分系统&lt;/b&gt;&lt;/div&gt;&lt;div&gt;用户中心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="501" y="260" width="113" height="73" as="geometry" />
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-104" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;综合看板&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;积分系统&lt;/b&gt;&lt;/div&gt;&lt;div&gt;用户中心&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="501" y="260" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-105" value="中间件服务器&lt;div&gt;rabbitMQ/Nacos/Redis&lt;/div&gt;&lt;div&gt;APISIX/XXLJob&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="495" y="452.75" width="100" height="40.5" as="geometry" />
@@ -425,7 +425,7 @@
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-118" value="中间件测试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="708" y="154.25" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-119" value="服务组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-119" value="myql数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="621" y="234.62" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-120" value="服务组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
@@ -466,6 +466,30 @@
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-140" value="MPP数据库2&lt;div&gt;过车、违法、交通流、灯态、定位、地图数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="694" y="656.5" width="105" height="51.25" as="geometry" />
+        </mxCell>
+        <mxCell id="MoB2GEEk3pOgaPLnYCLs-1" value="&lt;div&gt;感知网大数据平台服务器：&lt;/div&gt;&lt;div&gt;1、过车：实现缓堵平台算法，利用过车计算信号，实时生成方案；&lt;/div&gt;&lt;div&gt;实时存greenplum，历史hive；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、缓存，用于向公安网接入，&lt;/div&gt;&lt;div&gt;3、kafka、es：&lt;/div&gt;&lt;div&gt;缓堵的配时方案，灯态，也存储在es中；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mpp需要2个节点；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4、结构化数据阶段的删除；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-----------===------&lt;/div&gt;&lt;div&gt;过车，从视频专网，到公安网；&lt;/div&gt;&lt;div&gt;网闸，kafka摆渡，从视频网到公安网；&lt;/div&gt;&lt;div&gt;网闸摆渡支持：kafka，ftp，数据库；接口&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="193.62" width="220" height="226.38" as="geometry" />
+        </mxCell>
+        <mxCell id="MoB2GEEk3pOgaPLnYCLs-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.704;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.241;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mZFI4p3A-6uo8ngfV1ZM-136" target="mZFI4p3A-6uo8ngfV1ZM-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="450" as="sourcePoint" />
+            <mxPoint x="340" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MoB2GEEk3pOgaPLnYCLs-6" value="过车适配服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="446.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoB2GEEk3pOgaPLnYCLs-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MoB2GEEk3pOgaPLnYCLs-6" target="90dyTnu_F-Gg9CWMDRyv-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="480" as="sourcePoint" />
+            <mxPoint y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MoB2GEEk3pOgaPLnYCLs-8" value="过车流" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="418.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MoB2GEEk3pOgaPLnYCLs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ldn1e8dhwG9sfUgh6E9c-23" target="ldn1e8dhwG9sfUgh6E9c-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
