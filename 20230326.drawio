@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T07:39:35.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2eZ3BAAUDDxIzPWXMU6X" version="24.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T07:48:40.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gySO2NI-QQcbmEIBmzWk" version="24.1.0" type="github" pages="7">
   <diagram name="服务器规划" id="cPQb35P2niP3uAg26Fhb">
-    <mxGraphModel dx="2261" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,8 +184,8 @@
         <mxCell id="90dyTnu_F-Gg9CWMDRyv-15" value="动静缓堵保畅&lt;div&gt;uc&lt;/div&gt;&lt;div&gt;运维&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="17" y="228" width="100" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-1" value="动静缓堵保畅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="109" y="228" width="100" height="30" as="geometry" />
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-1" value="动静缓堵保畅&lt;div&gt;&lt;div&gt;uc&lt;/div&gt;&lt;div&gt;运维&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="109" y="228" width="100" height="42" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-2" value="动静缓堵保畅" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="199" y="227" width="100" height="32" as="geometry" />
@@ -467,7 +467,7 @@
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-140" value="MPP数据库2&lt;div&gt;过车、违法、交通流、灯态、定位、地图数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="694" y="656.5" width="105" height="51.25" as="geometry" />
         </mxCell>
-        <mxCell id="MoB2GEEk3pOgaPLnYCLs-1" value="&lt;div&gt;感知网大数据平台服务器：&lt;/div&gt;&lt;div&gt;1、过车：实现缓堵平台算法，利用过车计算信号，实时生成方案；&lt;/div&gt;&lt;div&gt;实时存greenplum，历史hive；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、缓存，用于向公安网接入，&lt;/div&gt;&lt;div&gt;3、kafka、es：&lt;/div&gt;&lt;div&gt;缓堵的配时方案，灯态，也存储在es中；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mpp需要2个节点；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4、结构化数据阶段的删除；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-----------===------&lt;/div&gt;&lt;div&gt;过车，从视频专网，到公安网；&lt;/div&gt;&lt;div&gt;网闸，kafka摆渡，从视频网到公安网；&lt;/div&gt;&lt;div&gt;网闸摆渡支持：kafka，ftp，数据库；接口&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="MoB2GEEk3pOgaPLnYCLs-1" value="&lt;div&gt;感知网大数据平台服务器：&lt;/div&gt;&lt;div&gt;1、过车：实现缓堵平台算法，利用过车计算信号，实时生成方案；&lt;/div&gt;&lt;div&gt;实时存greenplum，历史hive；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、缓存，用于向公安网接入，&lt;/div&gt;&lt;div&gt;3、kafka、es：&lt;/div&gt;&lt;div&gt;缓堵的配时方案，灯态，也存储在es中；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mpp需要2个节点；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4、视频专网结构化数据阶段的删除；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-----------===------&lt;/div&gt;&lt;div&gt;过车，从视频专网，到公安网；&lt;/div&gt;&lt;div&gt;网闸，kafka摆渡，从视频网到公安网；&lt;/div&gt;&lt;div&gt;网闸摆渡支持：kafka，ftp，数据库；接口&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-240" y="193.62" width="220" height="226.38" as="geometry" />
         </mxCell>
         <mxCell id="MoB2GEEk3pOgaPLnYCLs-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.704;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.241;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mZFI4p3A-6uo8ngfV1ZM-136" target="mZFI4p3A-6uo8ngfV1ZM-54">
@@ -749,7 +749,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="服务器机柜" id="6Oro0A-wJhBUSOKtrw6c">
-    <mxGraphModel dx="3007" dy="2082" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1505" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1473,7 +1473,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="过车/违法/视频数据流图" id="m61VLBiG1mfmX3PRKgcX">
-    <mxGraphModel dx="1687" dy="1229" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
