@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T07:48:40.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gySO2NI-QQcbmEIBmzWk" version="24.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T10:21:54.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="z2bVs1N_KPEdpsE0VJgf" version="24.1.0" type="github" pages="7">
   <diagram name="服务器规划" id="cPQb35P2niP3uAg26Fhb">
-    <mxGraphModel dx="2261" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -358,10 +358,10 @@
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-94" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fillColor=#d5e8d4;strokeColor=#82b366;imageBackground=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="367" y="77" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-95" value="ngnix/web" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-95" value="nginx/web" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="367" y="100.25" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-97" value="ngnix/web" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="mZFI4p3A-6uo8ngfV1ZM-97" value="nginx/web" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="457" y="98.75" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZFI4p3A-6uo8ngfV1ZM-99" value="运维&lt;div&gt;移动警务、铁骑系统&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
