@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T15:30:07.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lXzoSG0xQX_mcTeYq0rb" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-27T02:47:47.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="YZ4cOJu1qCbYbYD1gtQH" version="24.1.0" type="github" pages="7">
   <diagram name="服务器规划" id="cPQb35P2niP3uAg26Fhb">
     <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,7 +471,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 4 页" id="VzgvZbUCN_VonFsrliYI">
-    <mxGraphModel dx="2787" dy="-433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1649" dy="-993" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1823,6 +1823,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LvrUxT2eBGSTvOUO9h3O" name="第 7 页">
+    <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BF16oYEmxceesAa4yigF-1" value="&lt;b&gt;一、基线运维&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;1、系统管理中心对接；&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;b&gt;2、&lt;font color=&quot;#ff3333&quot;&gt;人员、部门调整，有问题&lt;/font&gt;；&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;3、设备数据权限调整；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;4、连接老系统管理中心的接口，及7、8张表；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;二、烟台运维&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;1、烽火可以给源代码，但是现阶段给不了，得需要验收；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;目前的代码是去年12月份的代码；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;2、交付的功能覆盖度，有多少？&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;风险：&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;1、数据统一放到一张表中，又大又权；拿到代码的时间可能会比较晚；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;2、熟悉代码的成本，需要了解，时间可能长；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;3、资产的表数据，支撑烟台业务系统，对接到原运维表的同名数据表(设备表)；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;4、&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;1）表同步；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;2）给业务系统提供2个接口；维度表；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;前期代码进展：&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;部署包是最新的，代码是去年12月份；代码一直有在改，各种细节更新；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;小部分新加，小部分优化；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;代码20%的差异；还会继续改；&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;目前在推试用，节后培训，还会有大改动，&lt;font color=&quot;#ff3333&quot;&gt;延伸：如出入库，台账；&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;前端vue，后端springboot；&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;项目组建议，倾向于上烟台运维；&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;基线运维产品经理确定：&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;人员、部门、设备（手台、）&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;设备：&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;设施：&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;内场服务器，程序监控：&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;内常资产、&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;告警报警，备件、出入库？工单，&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="610" height="780" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
