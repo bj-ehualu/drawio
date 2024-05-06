@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T10:40:12.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="G3Ji1TLq07uhyho6LXY4" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T11:26:45.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rq4mtkDNJCC3krjQKABH" version="24.3.0" type="github">
   <diagram name="UI及组件化" id="z0EhWLpogA51Fq5rZ20b">
     <mxGraphModel dx="989" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,10 +41,10 @@
           <mxGeometry x="124" y="90" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tG885CDq0jZlOQL7Jjer-14" value="&lt;div style=&quot;&quot;&gt;页面框架&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="124" y="180" width="80" height="30" as="geometry" />
+          <mxGeometry x="124" y="175" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tG885CDq0jZlOQL7Jjer-16" value="组件代码" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="229" y="180" width="80" height="30" as="geometry" />
+          <mxGeometry x="229" y="175" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tG885CDq0jZlOQL7Jjer-17" value="前端研发团队：王帆&lt;div&gt;gitlab：ehl-web-demo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="193.5" width="160" height="40" as="geometry" />
