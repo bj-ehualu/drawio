@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T06:02:13.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="h-oq8DKhzzZRFyn9uSPB" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T06:18:47.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Dvso3QN61pOS19mtF7fp" version="24.3.0" type="github">
   <diagram name="UI及组件化" id="z0EhWLpogA51Fq5rZ20b">
     <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tG885CDq0jZlOQL7Jjer-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="440" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-5" value="UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;UI规范文档2.0&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="229" y="353.25" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-7" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;新UI设计图&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=default;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="124" y="355" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;UI模板页&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;（表单、地图、弹窗等）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="353.25" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-9" value="组件化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="275" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;标准组件&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="124" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;业务组件&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(大屏)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="229" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-12" value="Web应用&lt;div&gt;（参考若依）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="193.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-13" value="WEB应用设计开发规范" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-14" value="&lt;div style=&quot;&quot;&gt;页面框架&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="124" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-16" value="组件代码" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="229" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-17" value="前端研发团队：王帆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-18" value="产品经理：刘聪、尹小春" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="268.25" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-19" value="UI设计：尹小春、向彬" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="363.25" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-21" value="成果物：web网站，gitlab代码共享，网站代码copy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111" y="217" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-22" value="成果物：业务组件设计、组件规范说明、axure组件包" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111" y="305" width="316" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-23" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;UI模板页demo代码&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;（表单、地图、弹窗等）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="175" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-24" value="成果物：web网站，web应用设计开发规范" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="395" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tG885CDq0jZlOQL7Jjer-26" value="总负责人：汤佳" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
