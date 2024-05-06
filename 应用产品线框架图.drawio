@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T07:15:49.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aK5Hs2CNH0xjHNeXYGpk" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T10:40:12.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="G3Ji1TLq07uhyho6LXY4" version="24.3.0" type="github">
   <diagram name="UI及组件化" id="z0EhWLpogA51Fq5rZ20b">
     <mxGraphModel dx="989" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="tG885CDq0jZlOQL7Jjer-12" value="Web应用&lt;div&gt;（参考若依）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="193.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tG885CDq0jZlOQL7Jjer-13" value="WEB应用设计开发规范" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="50" y="120" width="440" height="30" as="geometry" />
+        <mxCell id="tG885CDq0jZlOQL7Jjer-13" value="智能交通应用前端框架&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;WEB应用设计开发规范&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="124" y="90" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tG885CDq0jZlOQL7Jjer-14" value="&lt;div style=&quot;&quot;&gt;页面框架&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="124" y="180" width="80" height="30" as="geometry" />
