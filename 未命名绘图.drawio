@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T13:01:36.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XAD3RnR_RpMSmMENZghw" version="24.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-20T13:01:51.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tg7IBwD_dQdq6nC5oxgY" version="24.3.0" type="github" pages="3">
   <diagram name="产品清单" id="BQM6coDTAk8yB0PjhxQ_">
     <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
           <mxGeometry x="-230" y="-162" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="G-Hk67PxXfjfizzaveKg-5" value="基础数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="-90" width="100" height="30" as="geometry" />
+          <mxGeometry x="-340" y="-97" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G-Hk67PxXfjfizzaveKg-7" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="-130" width="60" height="30" as="geometry" />
