@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T12:13:30.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3Le9AMboXOucK4B5ScyJ" version="24.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-20T12:28:52.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UNo3vfFG--wi_iHqOJGW" version="24.3.0" type="github" pages="3">
   <diagram name="产品清单" id="BQM6coDTAk8yB0PjhxQ_">
     <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="c9_4cJlDFnoCd8v5gu31-8" value="交通要素主题档案系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="245" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c9_4cJlDFnoCd8v5gu31-9" value="佳通安全风险研判及管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c9_4cJlDFnoCd8v5gu31-9" value="交通安全风险研判及管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="245" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c9_4cJlDFnoCd8v5gu31-10" value="非现场违法管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
         <mxCell id="c9_4cJlDFnoCd8v5gu31-12" value="运维管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="312" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c9_4cJlDFnoCd8v5gu31-13" value="经理资源系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c9_4cJlDFnoCd8v5gu31-13" value="警力资源系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="312" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c9_4cJlDFnoCd8v5gu31-14" value="智能应用产品线产品体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;" vertex="1" parent="1">
@@ -56,14 +56,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lb7P5gCJF2fwDkoNet85" name="架构图">
-    <mxGraphModel dx="1995" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2312" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G-Hk67PxXfjfizzaveKg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="-330" width="310" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="G-Hk67PxXfjfizzaveKg-2" value="指挥调度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="G-Hk67PxXfjfizzaveKg-2" value="指挥调度系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-130" y="-330" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G-Hk67PxXfjfizzaveKg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -73,10 +73,7 @@
           <mxGeometry x="-220" y="-160" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="G-Hk67PxXfjfizzaveKg-5" value="基础数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="-200" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G-Hk67PxXfjfizzaveKg-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="-180" width="60" height="30" as="geometry" />
+          <mxGeometry x="-350" y="-90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G-Hk67PxXfjfizzaveKg-7" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="-130" width="60" height="30" as="geometry" />
@@ -84,7 +81,7 @@
         <mxCell id="G-Hk67PxXfjfizzaveKg-8" value="警员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="-90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qaR7COMaNkJgoEHobf-R-1" value="勤务管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="qaR7COMaNkJgoEHobf-R-1" value="智慧勤务系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="-330" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qaR7COMaNkJgoEHobf-R-3" value="警情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -245,6 +242,180 @@
         </mxCell>
         <mxCell id="y-Ep_Lmjlv_joNYCrTyZ-54" value="岗位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="-240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CmRk0tSUKb0RFswdfo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-330" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CmRk0tSUKb0RFswdfo-2" value="铁骑勤务系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CmRk0tSUKb0RFswdfo-4" value="排班" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CmRk0tSUKb0RFswdfo-5" value="岗位&lt;br&gt;（巡逻岗）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-290" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-520" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-2" value="人车查控系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-3" value="过车数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-4" value="卡口点位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-520" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-6" value="非现场违法管理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-520" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-7" value="违法数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-8" value="设备点位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="-560" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-10" value="交通要素主题档案系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="-560" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-11" value="机动车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-12" value="驾驶人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="-530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6LbTOaT1qfSwu4nNr6I-13" value="违法类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZx5T3v_tt5lVhj7QRzQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-330" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hZx5T3v_tt5lVhj7QRzQ-2" value="警卫安保系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZx5T3v_tt5lVhj7QRzQ-3" value="岗位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZx5T3v_tt5lVhj7QRzQ-4" value="引导车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-1" value="违法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="-530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-2" value="事故" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="-530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="782" y="-160" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-4" value="六合一系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="872" y="-160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-5" value="机动车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="792" y="-130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-6" value="驾驶人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="-130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-7" value="违法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="952" y="-130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-8" value="事故" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="-130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-9" value="道路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="792" y="-77" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-10" value="路段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872" y="-77" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-555" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-12" value="&lt;span style=&quot;font-size: 17px; background-color: rgb(251, 251, 251);&quot;&gt;交通安全风险研判及管理系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-555" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-13" value="机动车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-14" value="驾驶人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-15" value="违法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="-525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMlVs3leKRCK3xtAJ1Z3-16" value="事故" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="-525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-1" value="铁骑装备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="-290" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-2" value="警卫任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-3" value="警卫路线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-5" value="数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-6" value="ehl_dispatch:警力资源、指挥调度、智慧勤务、铁骑勤务、警卫安保" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-204" y="160" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-7" value="ehl_ops:运维管理系统" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="209" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-8" value="数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-9" value="ehl_gis:地理信息系统" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="260" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-10" value="数据库（gis）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-11" value="缉查布控系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-12" value="非现场违法系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-13" value="交通风险研判" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-15" value="交通要素主题档案画像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="470" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-16" value="mpp，gaussdb，greenplum" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="470" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-17" value="mpp，gaussdb，greenplum" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="420" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-18" value="ehl_surveil" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="370" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfp2ajZvVeFOiZ1PENNe-19" value="ehl_itgs" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="320" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5RvsyR0dzeI7SIB07BWA-1" value="数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5RvsyR0dzeI7SIB07BWA-2" value="大屏可视化" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="530" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5RvsyR0dzeI7SIB07BWA-3" value="数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="587" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5RvsyR0dzeI7SIB07BWA-4" value="用户管理中心" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="590" width="460" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
