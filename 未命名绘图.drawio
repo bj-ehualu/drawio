@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T12:53:56.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CyPnPpkG4_ZBmH-Kgk9C" version="24.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-20T12:58:25.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="R1PPirrRJRD3Xmk0nPKK" version="24.3.0" type="github" pages="3">
   <diagram name="产品清单" id="BQM6coDTAk8yB0PjhxQ_">
     <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -787,19 +787,7 @@
           <mxGeometry x="1040" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ggRdiF8uVnUdv5koCJbI-94" value="指调、勤务、铁骑、移动警务-------同一个数据库连接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1000" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ggRdiF8uVnUdv5koCJbI-95" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1040" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ggRdiF8uVnUdv5koCJbI-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="521" y="985" width="140" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="ggRdiF8uVnUdv5koCJbI-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="681" y="984" width="110" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="ggRdiF8uVnUdv5koCJbI-98" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="541" y="1001" width="60" height="30" as="geometry" />
+          <mxGeometry x="-10" y="970" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ggRdiF8uVnUdv5koCJbI-99" value="指调产品白皮书（数据流图，功能图，架构图，部署图）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="131" y="70" width="550" height="60" as="geometry" />
