@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T12:58:25.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="R1PPirrRJRD3Xmk0nPKK" version="24.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-20T13:01:36.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XAD3RnR_RpMSmMENZghw" version="24.3.0" type="github" pages="3">
   <diagram name="产品清单" id="BQM6coDTAk8yB0PjhxQ_">
-    <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lb7P5gCJF2fwDkoNet85" name="架构图">
-    <mxGraphModel dx="2606" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2606" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,16 +397,16 @@
           <mxGeometry x="-184" y="250" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-1" value="数据库" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="530" width="100" height="30" as="geometry" />
+          <mxGeometry x="-329" y="480" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-2" value="大屏可视化" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-161" y="530" width="460" height="30" as="geometry" />
+          <mxGeometry x="-190" y="480" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-3" value="数据库" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="577" width="100" height="30" as="geometry" />
+          <mxGeometry x="-329" y="527" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-4" value="用户管理中心（uc）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-161" y="580" width="460" height="30" as="geometry" />
+          <mxGeometry x="-190" y="530" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-235" y="-646" width="310" height="140" as="geometry" />
@@ -439,25 +439,25 @@
           <mxGeometry x="1140" y="-330" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-19" value="指挥调度数据库&lt;div style=&quot;font-size: 15px;&quot;&gt;ehl_dispatch&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;（&lt;span style=&quot;font-size: 16px; text-align: left; background-color: initial;&quot;&gt;警力资源、指挥调度、智慧勤务、铁骑勤务、警卫安保、信息发布、移动警务系统、大屏可视化&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="535" y="310" width="212" height="180" as="geometry" />
+          <mxGeometry x="515" y="150" width="212" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-20" value="运维管理数据库&lt;div&gt;ehl_ops&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="785" y="500" width="175" height="130" as="geometry" />
+          <mxGeometry x="765" y="340" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-21" value="违法过车数据库&lt;div&gt;ehl_itgs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;（缉查布控、非现场违法）&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="782" y="310" width="190" height="180" as="geometry" />
+          <mxGeometry x="762" y="150" width="190" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-22" value="&lt;div&gt;MPP数据库&lt;/div&gt;&lt;div&gt;ehl_***&lt;/div&gt;&lt;div&gt;（交通风险研判、&lt;/div&gt;&lt;div&gt;交通要素祖逖档案画像）&lt;/div&gt;&lt;div&gt;六合一数据，机动车、驾驶人、事故、违法&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="997" y="310" width="190" height="180" as="geometry" />
+          <mxGeometry x="977" y="150" width="190" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-24" value="用户中心数据库&lt;div&gt;ehl_uc&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="370" y="500" width="175" height="130" as="geometry" />
+          <mxGeometry x="350" y="340" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-25" value="地理信息数据库&lt;div&gt;ehl_gis&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="580" y="500" width="175" height="130" as="geometry" />
+          <mxGeometry x="560" y="340" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-26" value="es&lt;div&gt;违法、过车等&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="995" y="500" width="175" height="130" as="geometry" />
+          <mxGeometry x="975" y="340" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-27" value="运维工单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="-47" width="60" height="30" as="geometry" />
@@ -472,7 +472,7 @@
           <mxGeometry x="360" y="-87" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-31" value="视图库、图数据库？&lt;div&gt;（过车数据、过车图片、关系图谱）&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="500" width="175" height="130" as="geometry" />
+          <mxGeometry x="1180" y="340" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="i8mq2gymV1MbjUA1NhQd-1" value="标签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="792" y="-420" width="60" height="30" as="geometry" />
@@ -481,7 +481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="15TxYTVPwMiNuWWHBA0M" name="指调架构">
-    <mxGraphModel dx="2876" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
