@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T07:54:26.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HEeHo-wgD96oie0M7iJP" version="24.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-29T09:04:44.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3kolUQoNYrj6J33-SGcP" version="24.4.9" type="github" pages="3">
   <diagram name="产品清单" id="BQM6coDTAk8yB0PjhxQ_">
     <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lb7P5gCJF2fwDkoNet85" name="数据库架构图">
-    <mxGraphModel dx="3494" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3494" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,7 +399,7 @@
         <mxCell id="5RvsyR0dzeI7SIB07BWA-14" value="移动警务系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=none;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="352.75" y="-294" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5RvsyR0dzeI7SIB07BWA-19" value="指挥调度数据库&lt;div style=&quot;font-size: 15px;&quot;&gt;ehl_dispatch&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;（&lt;span style=&quot;font-size: 16px; text-align: left; background-color: initial;&quot;&gt;警力资源、指挥调度、勤务铁骑、警卫安保、信息发布、移动警务、大屏可视化&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="5RvsyR0dzeI7SIB07BWA-19" value="指挥调度数据库&lt;div style=&quot;font-size: 15px;&quot;&gt;ehl_dispatch&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;（&lt;span style=&quot;font-size: 16px; text-align: left; background-color: initial;&quot;&gt;指挥调度、勤务铁骑、警卫安保、信息发布、移动警务、大屏可视化&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-221" y="139.5" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-20" value="运维管理数据库&lt;div&gt;ehl_ops&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
@@ -414,7 +414,7 @@
         <mxCell id="5RvsyR0dzeI7SIB07BWA-24" value="用户中心数据库&lt;div&gt;ehl_uc&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-460" y="326" width="225" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="5RvsyR0dzeI7SIB07BWA-25" value="交警公共资源数据库&lt;div&gt;（基础信息、gis信息&lt;/div&gt;&lt;div&gt;部门警员、定位、字典）&lt;/div&gt;&lt;div&gt;ehl_public&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="5RvsyR0dzeI7SIB07BWA-25" value="交警公共资源数据库&lt;div&gt;（基础信息、&lt;span style=&quot;font-size: 16px; text-align: left; background-color: initial;&quot;&gt;警力资源&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;、字典）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ehl_public&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="248" y="140" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-26" value="es&lt;div&gt;违法、过车等&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
