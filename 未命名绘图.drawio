@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T01:18:59.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="eorOHZp1nC0NbXdRC3UV" version="24.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-29T02:25:21.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9YyKn0qDLqnnWAOiwyAm" version="24.4.9" type="github" pages="3">
   <diagram name="产品清单" id="BQM6coDTAk8yB0PjhxQ_">
     <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lb7P5gCJF2fwDkoNet85" name="数据库架构图">
-    <mxGraphModel dx="3494" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4572" dy="2278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,58 +349,58 @@
           <mxGeometry x="512.5" y="-219" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-5" value="数据库" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-454" y="150" width="100" height="30" as="geometry" />
+          <mxGeometry x="551.5" y="150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-6" value="ehl_dispatch:警力资源、指挥调度、智慧勤务、铁骑勤务、警卫安保、信息发布、移动警务系统、大屏可视化" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-361" y="150" width="780" height="30" as="geometry" />
+          <mxGeometry x="644.5" y="150" width="780" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-7" value="ehl_ops:运维管理系统" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="199" width="460" height="30" as="geometry" />
+          <mxGeometry x="690.5" y="199" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-8" value="数据库" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-454" y="200" width="100" height="30" as="geometry" />
+          <mxGeometry x="551.5" y="200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-9" value="ehl_gis:地理信息系统" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="250" width="460" height="30" as="geometry" />
+          <mxGeometry x="690.5" y="250" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-10" value="数据库" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-454" y="250" width="100" height="30" as="geometry" />
+          <mxGeometry x="551.5" y="250" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-11" value="缉查布控系统" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-454" y="310" width="100" height="30" as="geometry" />
+          <mxGeometry x="551.5" y="310" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-12" value="非现场违法系统" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-454" y="360" width="120" height="30" as="geometry" />
+          <mxGeometry x="551.5" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-13" value="交通风险研判" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-454" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="551.5" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-15" value="交通要素主题档案画像" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-454" y="460" width="100" height="30" as="geometry" />
+          <mxGeometry x="551.5" y="460" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-16" value="mpp，gaussdb，greenplum" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="460" width="460" height="30" as="geometry" />
+          <mxGeometry x="690.5" y="460" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-17" value="mpp，gaussdb，greenplum" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="410" width="460" height="30" as="geometry" />
+          <mxGeometry x="690.5" y="410" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-18" value="ehl_surveil" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="360" width="460" height="30" as="geometry" />
+          <mxGeometry x="690.5" y="360" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hfp2ajZvVeFOiZ1PENNe-19" value="ehl_itgs" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="310" width="460" height="30" as="geometry" />
+          <mxGeometry x="690.5" y="310" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-1" value="数据库" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="540" width="100" height="30" as="geometry" />
+          <mxGeometry x="553.5" y="541" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-2" value="大屏可视化" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-321" y="540" width="460" height="30" as="geometry" />
+          <mxGeometry x="692.5" y="541" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-3" value="数据库" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="587" width="100" height="30" as="geometry" />
+          <mxGeometry x="553.5" y="588" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-4" value="用户管理中心（uc）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-321" y="590" width="460" height="30" as="geometry" />
+          <mxGeometry x="692.5" y="591" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="-455" y="-610" width="310" height="140" as="geometry" />
@@ -432,26 +432,26 @@
         <mxCell id="5RvsyR0dzeI7SIB07BWA-14" value="移动警务系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="725" y="-289" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5RvsyR0dzeI7SIB07BWA-19" value="指挥调度数据库&lt;div style=&quot;font-size: 15px;&quot;&gt;ehl_dispatch&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;（&lt;span style=&quot;font-size: 16px; text-align: left; background-color: initial;&quot;&gt;警力资源、指挥调度、智慧勤务、铁骑勤务、警卫安保、信息发布、移动警务系统、大屏可视化&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="515" y="150" width="212" height="180" as="geometry" />
+        <mxCell id="5RvsyR0dzeI7SIB07BWA-19" value="指挥调度数据库&lt;div style=&quot;font-size: 15px;&quot;&gt;ehl_dispatch&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;（&lt;span style=&quot;font-size: 16px; text-align: left; background-color: initial;&quot;&gt;警力资源、指挥调度、勤务铁骑、警卫安保、信息发布、移动警务、大屏可视化&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-455" y="135" width="212" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-20" value="运维管理数据库&lt;div&gt;ehl_ops&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="1008" y="360" width="175" height="130" as="geometry" />
+          <mxGeometry x="38" y="345" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-21" value="违法过车数据库&lt;div&gt;ehl_itgs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;（缉查布控、非现场违法）&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="762" y="150" width="190" height="180" as="geometry" />
+          <mxGeometry x="-208" y="135" width="190" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="5RvsyR0dzeI7SIB07BWA-22" value="&lt;div&gt;MPP数据库&lt;/div&gt;&lt;div&gt;ehl_***&lt;/div&gt;&lt;div&gt;（交通风险研判、&lt;/div&gt;&lt;div&gt;交通要素祖逖档案画像）&lt;/div&gt;&lt;div&gt;六合一数据，机动车、驾驶人、事故、违法&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1235" y="145" width="190" height="180" as="geometry" />
+        <mxCell id="5RvsyR0dzeI7SIB07BWA-22" value="&lt;div&gt;MPP数据库&lt;/div&gt;&lt;div&gt;ehl_***&lt;/div&gt;&lt;div&gt;（交通风险研判、&lt;/div&gt;&lt;div&gt;交通要素主题档案画像）&lt;/div&gt;&lt;div&gt;六合一数据，机动车、驾驶人、事故、违法&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="31.5" y="516" width="190" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-24" value="用户中心数据库&lt;div&gt;ehl_uc&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="535" y="360" width="175" height="130" as="geometry" />
+          <mxGeometry x="-435" y="345" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-25" value="地理信息数据库&lt;div&gt;ehl_gis&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="780" y="360" width="175" height="130" as="geometry" />
+          <mxGeometry x="-190" y="345" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-26" value="es&lt;div&gt;违法、过车等&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="535" y="530" width="175" height="130" as="geometry" />
+          <mxGeometry x="-435" y="515" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-27" value="运维工单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-208.5" y="-6" width="60" height="30" as="geometry" />
@@ -466,13 +466,13 @@
           <mxGeometry x="-208.5" y="-46" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RvsyR0dzeI7SIB07BWA-31" value="视图库、图数据库？&lt;div&gt;（过车数据、过车图片、关系图谱）&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="782.5" y="531" width="175" height="130" as="geometry" />
+          <mxGeometry x="-187.5" y="516" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="i8mq2gymV1MbjUA1NhQd-1" value="标签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="553.5" y="-384" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PGL2sD3ANvfiZ0uOrdMA-1" value="安全风险研判/交通要素主题档案&lt;div&gt;ehl_ops&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="990" y="150" width="210" height="170" as="geometry" />
+          <mxGeometry x="20" y="135" width="210" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
