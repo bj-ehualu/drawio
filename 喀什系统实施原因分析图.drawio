@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T02:36:35.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="p6ZaMyfDrsYAgE5tN2YJ" version="24.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-20T02:39:25.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2M-woCJTqjmFr0CRKzYR" version="24.5.5" type="github" pages="2">
   <diagram id="59BYjAzN32ktKcpKIBuP" name="质量分析">
-    <mxGraphModel dx="3046" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2763" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,34 +41,34 @@
           <mxGeometry x="1171" y="560" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--14" value="数据对接慢" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="530" y="401" width="20" height="110" as="geometry" />
+          <mxGeometry x="530" y="390.74" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--15" value="&lt;div style=&quot;&quot;&gt;集成指挥平台备案慢&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="733" y="401" width="20" height="110" as="geometry" />
+          <mxGeometry x="733" y="390.74" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--16" value="正式研发比50%" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="950" y="410" width="24" height="110" as="geometry" />
+          <mxGeometry x="950" y="390.74" width="24" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lsGNj6fLJ-FlK3OzBnc--17" value="自研产品充分测试、发版" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="300" y="470" width="20" height="110" as="geometry" />
+        <mxCell id="lsGNj6fLJ-FlK3OzBnc--17" value="自研产品未充分测试，发往现场" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="300" y="456.74" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--19" value="离职人员（正式离3人）" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="939" y="706" width="20" height="110" as="geometry" />
+          <mxGeometry x="954" y="669" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--20" value="定制化数据对接&lt;div&gt;（警情、定位、卡口过车、图片)&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="550" y="470" width="20" height="110" as="geometry" />
+          <mxGeometry x="550" y="456.74" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--22" value="专业技支缺少&lt;div&gt;研发在补位&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="995" y="494" width="16" height="110" as="geometry" />
+          <mxGeometry x="995" y="456.74" width="16" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--23" value="第三方外包产品品控差&lt;div&gt;（运维、岗勤）&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="404" width="20" height="110" as="geometry" />
+          <mxGeometry x="280" y="390.74" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--25" value="产假休假人员（1产品，2研发）" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="991" y="635" width="20" height="110" as="geometry" />
+          <mxGeometry x="991" y="616.1" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--28" value="数据依赖多（情报研判）" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="550" y="618" width="20" height="110" as="geometry" />
+          <mxGeometry x="550" y="616.1" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--29" value="部署文档不详细，部署不标准" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="530" y="669" width="20" height="110" as="geometry" />
@@ -107,10 +107,10 @@
           <mxGeometry x="10" y="890" width="150" height="54" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--51" value="&lt;div style=&quot;&quot;&gt;文件上传摆渡新开发&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="753" y="485" width="20" height="110" as="geometry" />
+          <mxGeometry x="753" y="456.74" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--54" value="标准数据对接清单缺少" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="560" y="530" width="20" height="110" as="geometry" />
+          <mxGeometry x="560" y="525" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--56" value="六合一数据协调流程慢&lt;div&gt;（要素、事故、情报研判）&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="479" y="726.1" width="20" height="110" as="geometry" />
@@ -131,10 +131,10 @@
           <mxGeometry x="120" y="372" width="20" height="240" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--64" value="北指（大屏开发）、&lt;div&gt;二环项目人员占用（3人）&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="898" y="770" width="20" height="110" as="geometry" />
+          <mxGeometry x="898" y="726.1" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lsGNj6fLJ-FlK3OzBnc--66" value="无基线测试" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="210" y="734" width="20" height="110" as="geometry" />
+          <mxGeometry x="210" y="669" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
