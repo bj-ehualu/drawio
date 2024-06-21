@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T04:01:31.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5Bc3OATYfUdITE7M4N1s" version="24.5.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-06-21T05:00:12.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="f-KWUYK2R2CxwbmRq-lC" version="24.5.5" type="github" pages="9">
   <diagram name="产品清单" id="BQM6coDTAk8yB0PjhxQ_">
     <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1327,10 +1327,154 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J8pM8oMjB4ypjJrrsQhP" name="移动警务架构">
-    <mxGraphModel dx="1674" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2427" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="490" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="230" width="760" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="720" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="640" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="640" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-2" value="指调（1:9）&lt;div&gt;html5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-3" value="勤务（1：9）&lt;div&gt;html5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-4" value="运维(2:8)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="270" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-5" value="铁骑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-6" value="基础框架（android接口，调用手机接口(摄像头、语音、GPS设备)）&lt;div&gt;ehl移动端壳&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-7" value="apk，包&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;手机直接&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-9" value="project&lt;div&gt;分枝&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-10" value="公共基础内容（单点登录、权限等公共下沉）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-11" value="移动警务系统架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-12" value="----喀什&amp;nbsp; branch&amp;nbsp;&lt;div&gt;/index&lt;/div&gt;&lt;div&gt;/dispatch&lt;/div&gt;&lt;div&gt;/duty&lt;/div&gt;&lt;div&gt;/opt&lt;/div&gt;&lt;div&gt;/safe_risk&lt;/div&gt;&lt;div&gt;/&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="290" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-14" value="勤务(PC)&lt;div&gt;html5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="81.25" y="630" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GcwH5hldVU-8RAe9AuIu-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="330" as="sourcePoint" />
+            <mxPoint x="280" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-17" value="岗勤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="780" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-18" value="指调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="780" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-19" value="运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="780" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-20" value="风险&lt;div&gt;防控&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="780" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-23" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-26" value="magic-api+后端代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="505" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-27" value="ehl-utb-mobilepolice-vue(project)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="245" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-28" value="ehl-utb-mobilepolice-d-vue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="220" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-29" value="ehl-utb-mobilepolice-vue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="250" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-30" value="ehl-utb-mobilepolice-vue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="280" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-31" value="ehl-utb-mobilepolice-vue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="310" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-32" value="----烟台(branch)&lt;div&gt;/index&lt;/div&gt;&lt;div&gt;/dispatch&lt;/div&gt;&lt;div&gt;/duty&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="290" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-34" value="----遂宁(branch)&lt;div&gt;/index&lt;/div&gt;&lt;div&gt;/dispatch&lt;/div&gt;&lt;div&gt;/duty&lt;/div&gt;&lt;div&gt;/opt&lt;/div&gt;&lt;div&gt;/safe_risk&lt;/div&gt;&lt;div&gt;/&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="290" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-36" value="前端端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-50" value="分析研判" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="364" y="270" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-53" value="指调" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-54" value="指调" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="270" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-76" value="ehl-utb-mobilepolice-dipatch-vue(project)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="-500" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-77" value="ehl-utb-mobilepolice-duty-vue(project)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="-460" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-78" value="project&lt;div&gt;---Module&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-680" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-79" value="ehl-utb-mobilepolice-dipatch-magicapi(project)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-460" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-80" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" source="GcwH5hldVU-8RAe9AuIu-76" target="GcwH5hldVU-8RAe9AuIu-78" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-440" y="-480" as="sourcePoint" />
+            <mxPoint x="-390" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-439" y="-445.5" as="sourcePoint" />
+            <mxPoint x="-399" y="-445.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-82" value="分散N个包&lt;div&gt;1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-700" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-83" value="代码放一个包" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-695" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-84" value="代码放一个包" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-695" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GcwH5hldVU-8RAe9AuIu-88" value="uniapp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
