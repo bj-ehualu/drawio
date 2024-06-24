@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T06:34:38.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.6.0" etag="qc7RzGWUxdXgKLEM_hsr" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T07:06:08.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-IBYpZ5Vb-slI36j52JR" version="24.6.0" type="github">
   <diagram name="第 1 页" id="Q1H-f1rdF5ZldosdVT-W">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-2" value="非现场违法管理系统" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="85" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-3" value="交通违法汇聚" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="136" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-4" value="违法数据汇聚" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="163" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-5" value="上传公安网系统数据统计" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="191" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-6" value="违法统计" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="218" width="100" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-7" value="上传公安网系统数据查询" style="text;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="70" y="245" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-8" value="路口违法量排名" style="text;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270.5" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-9" value="设备管理" style="text;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="70" y="296" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-10" value="违法代码管理" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="321" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-14" value="运维系统" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="265" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-15" value="资产管理-设备管理" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="136" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-16" value="资产管理-设施管理" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="163" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-17" value="地图可视化" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="191" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-18" value="配置管理-监控管理" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="218" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-19" value="配置管理-字典管理" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="245" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-20" value="日志管理" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270.5" width="140" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-23" value="喀什项目推进进展" style="text;whiteSpace=wrap;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-24" value="7-30完成功能" style="text;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="541" y="150" width="89" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-26" value="8-30完成" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="541" y="184" width="89" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="HGRkvcp35Z2EBa17WWVa-27" value="6-20完成功能" style="text;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="114.5" width="90" height="21" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
