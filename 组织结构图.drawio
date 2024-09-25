@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="OAROo4owWDmXJsYnr5AV">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-1" value="项目经理（康勇）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="sourcePoint" />
+            <mxPoint x="310" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="600" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-4" value="现场产品负责人-田甜、陈帅" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="185" as="sourcePoint" />
+            <mxPoint x="370" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-8" value="研发人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-9" value="运维人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-10" value="王立然" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-11" value="盘 黔" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="590" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-12" value="申宇航" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-13" value="&amp;nbsp;闫 帅" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-14" value="霍慧东" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-15" value="杨林汪" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-16" value="李宇飞" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#CCFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-17" value="张瑞超" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-18" value="李毅" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#CCFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-19" value="苏昊" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#CCFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.463;exitY=-0.061;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230.93999999999994" y="248.56000000000006" as="sourcePoint" />
+            <mxPoint x="231" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.463;exitY=-0.061;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="248" as="sourcePoint" />
+            <mxPoint x="600" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
