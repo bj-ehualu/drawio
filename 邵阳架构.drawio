@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
-  <diagram name="第 1 页" id="Ngtqwkfhdqt_6lyZPfnB">
+  <diagram name="邵阳项目" id="Ngtqwkfhdqt_6lyZPfnB">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -16,7 +16,7 @@
         <mxCell id="CUAA80fW6IYqfCj50wlj-7" value="数仓&lt;div&gt;hadoop&lt;/div&gt;&lt;div&gt;（hive，hdfs）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="190" width="80" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="CUAA80fW6IYqfCj50wlj-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="CUAA80fW6IYqfCj50wlj-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="220" y="192" width="380" height="298" as="geometry" />
         </mxCell>
         <mxCell id="CUAA80fW6IYqfCj50wlj-9" value="对接数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="CUAA80fW6IYqfCj50wlj-17" value="易华录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CUAA80fW6IYqfCj50wlj-21" value="主体层 OWS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CUAA80fW6IYqfCj50wlj-21" value="主题层 OWS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="281.5" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CUAA80fW6IYqfCj50wlj-22" value="标准层 DWD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
         <mxCell id="CUAA80fW6IYqfCj50wlj-41" value="勤务督察" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="390.5" y="40" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CUAA80fW6IYqfCj50wlj-42" value="交通运维管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CUAA80fW6IYqfCj50wlj-42" value="交通运维管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="390.5" y="65" width="99" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CUAA80fW6IYqfCj50wlj-43" value="业务监管系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
