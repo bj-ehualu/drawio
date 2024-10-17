@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="3">
-  <diagram name="烟台" id="OAROo4owWDmXJsYnr5AV">
+  <diagram name="北指" id="OAROo4owWDmXJsYnr5AV">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="60" y="250" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IGKMYJv6QwKf53uTfGsF-9" value="运维人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="530" y="250" width="170" height="40" as="geometry" />
+          <mxGeometry x="530" y="250" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IGKMYJv6QwKf53uTfGsF-10" value="王立然" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="530" y="310" width="40" height="160" as="geometry" />
@@ -46,22 +46,22 @@
         <mxCell id="IGKMYJv6QwKf53uTfGsF-13" value="&amp;nbsp;闫 帅" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="60" y="310" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="IGKMYJv6QwKf53uTfGsF-14" value="霍慧东" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="120" y="310" width="40" height="160" as="geometry" />
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-14" value="霍慧东" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#D5E8D4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="115" y="310" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="IGKMYJv6QwKf53uTfGsF-15" value="杨林汪" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="180" y="310" width="40" height="160" as="geometry" />
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-15" value="杨林汪" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#D5E8D4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="170" y="310" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="IGKMYJv6QwKf53uTfGsF-16" value="李宇飞" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#CCFFCC;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="290" y="310" width="40" height="160" as="geometry" />
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-16" value="李宇飞、杜雪" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="280" y="310" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="IGKMYJv6QwKf53uTfGsF-17" value="张瑞超" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="240" y="310" width="40" height="160" as="geometry" />
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-17" value="张瑞超" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#D5E8D4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="225" y="310" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="IGKMYJv6QwKf53uTfGsF-18" value="李毅" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#CCFFCC;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="340" y="310" width="40" height="160" as="geometry" />
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-18" value="李毅" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="335" y="310" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="IGKMYJv6QwKf53uTfGsF-19" value="苏昊" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#CCFFCC;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="IGKMYJv6QwKf53uTfGsF-19" value="苏昊" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="390" y="310" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IGKMYJv6QwKf53uTfGsF-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.463;exitY=-0.061;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -88,7 +88,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j2_Z_fBfvxtsuSfJLwfG" name="通用">
-    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
