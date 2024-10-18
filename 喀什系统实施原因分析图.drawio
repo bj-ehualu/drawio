@@ -207,7 +207,7 @@
         <mxCell id="5EUs6spXbNmxz0RjEtKR-21" value="第三方外包产品品控差&lt;div&gt;（运维、岗勤）&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="5EUs6spXbNmxz0RjEtKR-1">
           <mxGeometry x="277" y="420" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5EUs6spXbNmxz0RjEtKR-22" value="产假休假人员（1产品，2研发）" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5EUs6spXbNmxz0RjEtKR-1">
+        <mxCell id="5EUs6spXbNmxz0RjEtKR-22" value="休产假人员（1产品，2研发）" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5EUs6spXbNmxz0RjEtKR-1">
           <mxGeometry x="991" y="616.1" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5EUs6spXbNmxz0RjEtKR-23" value="数据依赖多（情报研判）" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5EUs6spXbNmxz0RjEtKR-1">
@@ -284,6 +284,9 @@
         </mxCell>
         <mxCell id="03Mn26t2a9QV1AeWYghy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5EUs6spXbNmxz0RjEtKR-1" source="5EUs6spXbNmxz0RjEtKR-24" target="5EUs6spXbNmxz0RjEtKR-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03Mn26t2a9QV1AeWYghy-6" value="人员多地办公，沟通需加强" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=16;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5EUs6spXbNmxz0RjEtKR-1">
+          <mxGeometry x="861" y="783" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
