@@ -1641,7 +1641,7 @@
         <mxCell id="pwA37FwkTOhxww2PLM0e-24" value="警车（二轮、四轮）定位、&lt;div&gt;警员(350M，PDA)定位&lt;/div&gt;&lt;div&gt;（socket，kafka，table方式)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="309" y="405" width="157" height="56.88" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-28" value="内置接入gps，目前接kafka" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-28" value="gps实时刷新接口，&lt;div&gt;目前接kafka&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="305" y="165" width="176" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="pwA37FwkTOhxww2PLM0e-34" value="web(vue)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
