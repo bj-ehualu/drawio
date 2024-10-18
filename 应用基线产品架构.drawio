@@ -1614,19 +1614,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pwA37FwkTOhxww2PLM0e-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-50" y="110" width="650" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pwA37FwkTOhxww2PLM0e-2" value="视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="628" y="381.88" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-3" value="信号机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-3" value="信号机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="761" y="381.88" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pwA37FwkTOhxww2PLM0e-9" value="警卫任务系统web接口&lt;div&gt;&lt;b&gt;（任务推演+任务执行）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="119" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-14" value="信号组件&lt;div&gt;(自研、eloc)&lt;/div&gt;&lt;div&gt;(web,iframe)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-14" value="信号组件&lt;div&gt;(自研、eloc)&lt;/div&gt;&lt;div&gt;(web,iframe)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="841" y="105.25" width="110" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="pwA37FwkTOhxww2PLM0e-15" value="WVP视频组件&lt;div&gt;（web应用)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -1635,7 +1635,7 @@
         <mxCell id="pwA37FwkTOhxww2PLM0e-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="190" y="363.76" width="170" height="48.12" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-18" value="警卫安保系统&lt;div&gt;(任务、岗位、评价等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-18" value="警卫安保系统&lt;div&gt;(任务、岗位、评价等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-47" y="363.76" width="130" height="48.12" as="geometry" />
         </mxCell>
         <mxCell id="pwA37FwkTOhxww2PLM0e-24" value="警车（二轮、四轮）定位、&lt;div&gt;警员(350M，PDA)定位&lt;/div&gt;&lt;div&gt;（socket，kafka，table方式)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -1644,10 +1644,10 @@
         <mxCell id="pwA37FwkTOhxww2PLM0e-28" value="内置接入gps，目前接kafka" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="416" y="115" width="176" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-34" value="web(vue)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-34" value="web(vue)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-50" y="20" width="1170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-35">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1014.5555555555557" y="180" as="sourcePoint" />
             <mxPoint x="1060" y="61" as="targetPoint" />
@@ -1695,40 +1695,40 @@
         <mxCell id="pwA37FwkTOhxww2PLM0e-55" value="GPS&lt;div&gt;(websocket)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="72" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.716;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-59" target="pwA37FwkTOhxww2PLM0e-14">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.716;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-59" target="pwA37FwkTOhxww2PLM0e-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="320" as="sourcePoint" />
             <mxPoint x="895" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-14">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="894.5" y="110" as="sourcePoint" />
             <mxPoint x="894.5" y="59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-59" value="eloc平台（web应用）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-59" value="eloc平台（web应用）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="760" y="255" width="190" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.211;exitY=0.022;exitDx=0;exitDy=0;entryX=0.951;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-59">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.211;exitY=0.022;exitDx=0;exitDy=0;entryX=0.951;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="798.91" y="231.5" as="sourcePoint" />
             <mxPoint x="801.08" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-61" value="接口&lt;div&gt;（锁相，中心手动下发/借宿特勤，信号机周期，车道梳理，方案查询）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-61" value="接口&lt;div&gt;（锁相，中心手动下发/借宿特勤，信号机周期，车道梳理，方案查询）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="743" y="143" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-3">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="855" y="410" as="sourcePoint" />
             <mxPoint x="855" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-64" value="多厂家信号适配&lt;div&gt;服务&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-64" value="多厂家信号适配&lt;div&gt;服务&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="805" y="318.75" width="110" height="41.25" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-66" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-64" target="pwA37FwkTOhxww2PLM0e-35">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-66" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-64" target="pwA37FwkTOhxww2PLM0e-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="905" y="324.375" as="sourcePoint" />
             <mxPoint x="1010" y="210" as="targetPoint" />
@@ -1738,10 +1738,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-35" value="rabbitMQ" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-35" value="rabbitMQ" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1010" y="255" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-35">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="pwA37FwkTOhxww2PLM0e-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="320" as="sourcePoint" />
             <mxPoint x="950" y="270" as="targetPoint" />
@@ -1753,7 +1753,7 @@
             <mxPoint x="270" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-72" value="视频跟随算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-72" value="视频跟随算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="260" y="121.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pwA37FwkTOhxww2PLM0e-73" value="地图服务接口&lt;div&gt;（四维、图盟、百度、超图）&lt;/div&gt;&lt;div&gt;道路上、下行方向&lt;/div&gt;&lt;div&gt;POI、路径规划等&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -1811,7 +1811,7 @@
         <mxCell id="pwA37FwkTOhxww2PLM0e-111" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;警力资源系统&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;（警员、部门）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="91" y="367.82" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pwA37FwkTOhxww2PLM0e-112" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;路口实时灯态&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pwA37FwkTOhxww2PLM0e-112" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;路口实时灯态&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1020" y="145.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pwA37FwkTOhxww2PLM0e-113" value="地图数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
