@@ -1900,13 +1900,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pQ2td7gA99WnjXEdvGgE-1" value="开发库&lt;div style=&quot;font-size: 26px;&quot;&gt;gitlab&lt;/div&gt;&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;http://10.20.5.5:10081/EHL-UTB/ehl-dap&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=26;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="40" y="170" width="200" height="120" as="geometry" />
+          <mxGeometry x="40" y="170" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pQ2td7gA99WnjXEdvGgE-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;产品库&lt;/font&gt;&lt;div&gt;svn&lt;br&gt;&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;https:/10.2.111.112:8443/svn/配置管理库/Dev_产品库/E389XX_智能交通管控平台&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=26;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="505" y="171" width="200" height="120" as="geometry" />
+          <mxGeometry x="505" y="171" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pQ2td7gA99WnjXEdvGgE-3" value="测试库&lt;div style=&quot;font-size: 26px;&quot;&gt;svn&lt;/div&gt;&lt;div style=&quot;line-height: 30%;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;https://10.2.111.112:8443/svn/配置管理库/测试库/中央研究院/数据应用产品线/人车查控分析系统/人车查控分析系统V5.0.0.0/&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=26;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="272" y="170" width="200" height="120" as="geometry" />
+          <mxGeometry x="272" y="170" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pQ2td7gA99WnjXEdvGgE-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1933,7 +1933,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lIkJ-DTBStaX2J5EO25H-1" value="项目库&lt;div style=&quot;font-size: 26px;&quot;&gt;svn&lt;/div&gt;&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;https://10.2.111.112:8443/svn/配置管理库/Dev_项目库/HL14032204001_北京市北京交管指挥中心升级改造项目第四包系统开发部分&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=26;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="737" y="170" width="200" height="120" as="geometry" />
+          <mxGeometry x="737" y="170" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="lIkJ-DTBStaX2J5EO25H-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
