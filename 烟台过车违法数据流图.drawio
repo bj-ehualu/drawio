@@ -1,0 +1,894 @@
+<mxfile host="Electron" modified="2025-01-15T08:56:48.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="psOb9avgU7xTIdv3sgU0" version="21.6.8" type="device" pages="3">
+  <diagram id="a1gr5G-wi3xDLKFeVlfK" name="0层DFD">
+    <mxGraphModel dx="1431" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UC0qgGCW1SO5aXKnt9pL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-81" target="GQ6E-3Pue0791LBvfLuz-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-92" value="9.N平台与数资&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="680" width="120" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-1" value="" style="html=1;dashed=1;whiteSpace=wrap;fillColor=none;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="910" y="680" width="460" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-6" target="GQ6E-3Pue0791LBvfLuz-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-3" value="过车图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-2">
+          <mxGeometry x="-0.5892" y="2" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-6" target="GQ6E-3Pue0791LBvfLuz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-5" value="过车文本数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-4">
+          <mxGeometry x="-0.7492" relative="1" as="geometry">
+            <mxPoint x="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-6" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;新设备:卡口&lt;br&gt;（大华、海康）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="930" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-10" target="GQ6E-3Pue0791LBvfLuz-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-10" target="GQ6E-3Pue0791LBvfLuz-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-9" value="过车" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-8">
+          <mxGeometry x="-0.7806" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-10" value="3.数据接入1400&lt;br&gt;ehl-viid-data-search-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-12" target="GQ6E-3Pue0791LBvfLuz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-12" value="OBS 华为对象存储" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-15" target="GQ6E-3Pue0791LBvfLuz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-14" value="边界接口转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-13">
+          <mxGeometry x="-0.1658" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-15" value="1.图片访问服务&lt;br&gt;small-file-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="1140" as="sourcePoint" />
+            <mxPoint x="1580" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-17" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;视频网&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 公安网&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1274" y="98" width="610" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UC0qgGCW1SO5aXKnt9pL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-18" target="GQ6E-3Pue0791LBvfLuz-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-18" value="2.图片跨网访问服务&lt;br&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;gateway-service-forwarding&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="173" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-25" target="GQ6E-3Pue0791LBvfLuz-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2320" y="206" />
+              <mxPoint x="2105" y="206" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-20" value="访问过车图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-19">
+          <mxGeometry x="-0.7483" relative="1" as="geometry">
+            <mxPoint x="-500" y="-65" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-25" target="GQ6E-3Pue0791LBvfLuz-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2820" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-22" value="访问违法图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-21">
+          <mxGeometry x="0.635" relative="1" as="geometry">
+            <mxPoint x="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-25" target="GQ6E-3Pue0791LBvfLuz-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-24" value="访问旧设备违法过车图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-23">
+          <mxGeometry x="-0.8862" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UC0qgGCW1SO5aXKnt9pL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-25" target="GQ6E-3Pue0791LBvfLuz-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-25" value="14.集指平台" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="405" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;shadow=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-33" target="GQ6E-3Pue0791LBvfLuz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-27" value="违法与过车文本数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-26">
+          <mxGeometry x="-0.1314" y="-1" relative="1" as="geometry">
+            <mxPoint x="163" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-33" target="GQ6E-3Pue0791LBvfLuz-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-29" value="违法图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-28">
+          <mxGeometry x="-0.0503" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-33" target="GQ6E-3Pue0791LBvfLuz-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-33" target="GQ6E-3Pue0791LBvfLuz-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-33" target="GQ6E-3Pue0791LBvfLuz-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-33" value="8.违法上传服务&lt;br&gt;ehl-illegal-upload-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-40" target="GQ6E-3Pue0791LBvfLuz-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="500" />
+              <mxPoint x="1150" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-35" value="过车文本数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-34">
+          <mxGeometry x="-0.6578" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-40" target="GQ6E-3Pue0791LBvfLuz-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-37" value="违法数据（带图base64）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-36">
+          <mxGeometry x="0.1937" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GQ6E-3Pue0791LBvfLuz-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="501" />
+              <mxPoint x="910" y="205" />
+            </Array>
+            <mxPoint x="950" y="500.5" as="sourcePoint" />
+            <mxPoint x="1110" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-39" value="过车图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-38">
+          <mxGeometry x="-0.0417" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-40" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;新设备:电警&lt;br&gt;（大华、海康）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="930" y="450" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-45" target="GQ6E-3Pue0791LBvfLuz-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-42" value="过车数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-41">
+          <mxGeometry x="-0.4747" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-45" target="GQ6E-3Pue0791LBvfLuz-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="1078.48" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-44" value="违法图片、视频，过车图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-43">
+          <mxGeometry x="-0.1534" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-45" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;旧设备&lt;br&gt;（大华）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="930" y="873.48" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-47" target="GQ6E-3Pue0791LBvfLuz-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-47" value="4.违法数据采集&lt;br&gt;ehl-data-collect-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-50" target="GQ6E-3Pue0791LBvfLuz-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-49" value="边界摆渡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-48">
+          <mxGeometry x="-0.0424" y="-4" relative="1" as="geometry">
+            <mxPoint x="-6" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-50" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;违法数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="585" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-57" target="GQ6E-3Pue0791LBvfLuz-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-52" value="边界摆渡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-51">
+          <mxGeometry x="-0.1435" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-57" target="GQ6E-3Pue0791LBvfLuz-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-54" value="订阅用于失驾" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-53">
+          <mxGeometry x="0.2823" y="1" relative="1" as="geometry">
+            <mxPoint x="46" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-57" target="GQ6E-3Pue0791LBvfLuz-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-56" value="按照设备订阅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-55">
+          <mxGeometry x="0.4561" y="-1" relative="1" as="geometry">
+            <mxPoint x="29" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-57" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;一次过车数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="355" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-59" target="GQ6E-3Pue0791LBvfLuz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-59" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;一次过车数据&lt;br&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;coll_device_&lt;span style=&quot;background-color: initial;&quot;&gt;motorvehicles_standard&lt;/span&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1623" y="355" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-62" target="GQ6E-3Pue0791LBvfLuz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-61" value="违法数据（带图base64）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-60">
+          <mxGeometry x="-0.7294" y="-1" relative="1" as="geometry">
+            <mxPoint x="-3" y="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-62" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;违法数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1623" y="585" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;entryX=1;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-65" target="GQ6E-3Pue0791LBvfLuz-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="290" />
+            </Array>
+            <mxPoint x="1360" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-64" value="提供应用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-63">
+          <mxGeometry x="0.0538" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-65" value="ES&amp;nbsp; &amp;nbsp; &amp;nbsp;一次过车数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="308" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-67" target="GQ6E-3Pue0791LBvfLuz-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-67" value="5.视图库应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-68" value="6.市局应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-72" target="GQ6E-3Pue0791LBvfLuz-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-72" target="GQ6E-3Pue0791LBvfLuz-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="473.5" as="sourcePoint" />
+            <mxPoint x="1190" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1210" y="474" />
+              <mxPoint x="1180" y="474" />
+              <mxPoint x="1180" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-71" value="二次过车数据接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-70">
+          <mxGeometry x="0.4263" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-72" value="7.AI二次识别应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-75" target="GQ6E-3Pue0791LBvfLuz-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1610" y="535" />
+              <mxPoint x="1610" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-74" value="边界摆渡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-73">
+          <mxGeometry x="-0.3051" y="-2" relative="1" as="geometry">
+            <mxPoint x="8" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-75" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;二次过车数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="520" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.607;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=4;entryPerimeter=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-77" target="GQ6E-3Pue0791LBvfLuz-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1880" y="535" />
+              <mxPoint x="1880" y="824" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-77" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;二次过车数据&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;coll_ai_motorvehicles_standard&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1623" y="520" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-80" target="GQ6E-3Pue0791LBvfLuz-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-79" value="违法图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-78">
+          <mxGeometry x="-0.3713" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-80" value="OBS 华为对象存储" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="338" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-81" value="13.图片访问服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="323" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;entryX=0.016;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-84" target="GQ6E-3Pue0791LBvfLuz-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2220" y="602" />
+              <mxPoint x="2220" y="697" />
+              <mxPoint x="2292" y="697" />
+            </Array>
+            <mxPoint x="2270" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=4;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-84" target="GQ6E-3Pue0791LBvfLuz-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1961" y="602" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-84" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;一次过车数据&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;coll_device_motorvehicles_standard&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="572" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-86" target="GQ6E-3Pue0791LBvfLuz-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2220" y="924" />
+              <mxPoint x="2220" y="858" />
+              <mxPoint x="2290" y="858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-86" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;旧过车数据&lt;br&gt;motorVehicles_old" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2012" y="908.48" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-88" target="UC0qgGCW1SO5aXKnt9pL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-88" value="ES&amp;nbsp; &amp;nbsp; &amp;nbsp;过车数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="649" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-92" target="GQ6E-3Pue0791LBvfLuz-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2389.7199999999993" y="953" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2350" y="1124" />
+              <mxPoint x="1698" y="1124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-90" value="访问旧设备违法过车图片" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-89">
+          <mxGeometry x="-0.8596" y="3" relative="1" as="geometry">
+            <mxPoint y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-92" target="GQ6E-3Pue0791LBvfLuz-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2349.9999999999995" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=4;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-94" target="GQ6E-3Pue0791LBvfLuz-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-94" value="10.视图库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1901" y="634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-95" value="FTP&amp;nbsp; &amp;nbsp;存储" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1623" y="1063.48" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-98" target="GQ6E-3Pue0791LBvfLuz-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1698" y="993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-98" target="GQ6E-3Pue0791LBvfLuz-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="813" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1698" y="923" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-98" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;旧过车数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1623" y="908.48" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-101" target="GQ6E-3Pue0791LBvfLuz-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2710" y="993" />
+              <mxPoint x="2710" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-100" value="违法与过车文本数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQ6E-3Pue0791LBvfLuz-99">
+          <mxGeometry x="-0.7615" y="-3" relative="1" as="geometry">
+            <mxPoint x="9" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-101" value="12.汇通云平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2088" y="963" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-103" target="GQ6E-3Pue0791LBvfLuz-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-103" value="11.过车协议转换&lt;br&gt;data-conversion-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UC0qgGCW1SO5aXKnt9pL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-104" target="GQ6E-3Pue0791LBvfLuz-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-104" value="ES&amp;nbsp; &amp;nbsp; &amp;nbsp;违法数据&lt;br&gt;violation_index_alias" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="490" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-105" value="" style="endArrow=none;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="714.9099999999999" as="sourcePoint" />
+            <mxPoint x="1280" y="714.9099999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-106" value="图片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="700" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-107" value="" style="endArrow=none;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="754.9099999999999" as="sourcePoint" />
+            <mxPoint x="1280" y="754.9099999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-108" value="违法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="740" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-109" value="" style="endArrow=none;html=1;rounded=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="794.9099999999999" as="sourcePoint" />
+            <mxPoint x="1280" y="794.9099999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-110" value="过车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="780" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-111" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 存储" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="980" y="700" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-112" value="起点 OR 终点" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="980" y="740" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-113" value="加工" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="780" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-114" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;过车、违法数据流图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="10" width="460" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-115" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;图例&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-116" value="存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="700" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-117" value="起点或终点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="740" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-118" value="加工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="780" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC0qgGCW1SO5aXKnt9pL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=3;" edge="1" parent="1" source="GQ6E-3Pue0791LBvfLuz-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="680.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-119" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;违法数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="530" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-120" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="945" y="878" width="70" height="44.52" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-121" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="945" y="460" width="70" height="44.52" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-122" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="945" y="330.74" width="70" height="44.52" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-123" value="ES&amp;nbsp; &amp;nbsp; &amp;nbsp;二次过车数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="238" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ6E-3Pue0791LBvfLuz-124" value="用户" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="410" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UC0qgGCW1SO5aXKnt9pL-1" value="9.2.违法预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2305" y="760" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC0qgGCW1SO5aXKnt9pL-2" value="9.1.缉查布控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2305" y="720" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC0qgGCW1SO5aXKnt9pL-3" value="9.3.数资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2305" y="800" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UC0qgGCW1SO5aXKnt9pL-4" value="9.4.xxx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2305" y="840" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TEqeUqfg1aDEe83UV5bz" name="缉查布控DFD">
+    <mxGraphModel dx="655" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ahvS4al9dqD36LPu7QTx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ahvS4al9dqD36LPu7QTx-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1293.5" y="815.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ahvS4al9dqD36LPu7QTx-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1293.5" y="865.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ahvS4al9dqD36LPu7QTx-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1293.5" y="770.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-4" value="用户" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="775" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-10" target="ahvS4al9dqD36LPu7QTx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1639" y="695" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1640" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-10" target="ahvS4al9dqD36LPu7QTx-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1640" y="1005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-10" target="ahvS4al9dqD36LPu7QTx-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-10" target="ahvS4al9dqD36LPu7QTx-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-10" target="ahvS4al9dqD36LPu7QTx-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-10" value="9.1.2.access数据服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-13" target="ahvS4al9dqD36LPu7QTx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.099;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-13" target="ahvS4al9dqD36LPu7QTx-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1950" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-13" value="9.1.3.全文检索服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.098;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-18" target="ahvS4al9dqD36LPu7QTx-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1950" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-15" value="过车数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ahvS4al9dqD36LPu7QTx-14">
+          <mxGeometry x="-0.1059" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-18" target="ahvS4al9dqD36LPu7QTx-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-17" value="告警" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ahvS4al9dqD36LPu7QTx-16">
+          <mxGeometry x="0.1478" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-18" value="9.1.4.消息分发服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="975" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-21" target="ahvS4al9dqD36LPu7QTx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-21" target="ahvS4al9dqD36LPu7QTx-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-21" value="9.1.7.主服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.581;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.397;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-27" target="ahvS4al9dqD36LPu7QTx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-27" target="ahvS4al9dqD36LPu7QTx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-24" value="过车数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ahvS4al9dqD36LPu7QTx-23">
+          <mxGeometry x="0.4015" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-27" target="ahvS4al9dqD36LPu7QTx-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2020" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2030" y="830" />
+              <mxPoint x="2030" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-27" target="ahvS4al9dqD36LPu7QTx-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-27" value="ES&amp;nbsp; &amp;nbsp; 过车数据&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; color: rgb(8, 8, 8);&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;tfc_pass_all_yyyyMM&lt;/font&gt;&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1938" y="800" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-29" target="ahvS4al9dqD36LPu7QTx-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-29" value="9.1.5.定时任务服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2010" y="875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-31" value="更新初次入城&lt;br&gt;昼伏夜出脏数&lt;br&gt;据标识" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ahvS4al9dqD36LPu7QTx-30">
+          <mxGeometry x="-0.1854" relative="1" as="geometry">
+            <mxPoint x="7" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-32" value="9.1.6.标签服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-35" target="ahvS4al9dqD36LPu7QTx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-34" value="接口调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ahvS4al9dqD36LPu7QTx-33">
+          <mxGeometry x="-0.0167" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-35" value="9.1.1.adapter适配服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1368" y="785" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-37" target="ahvS4al9dqD36LPu7QTx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-37" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;一次过车数据&lt;br&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;coll_device_&lt;span style=&quot;background-color: initial;&quot;&gt;motorvehicles_standard_dap&lt;/span&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="800" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-39" target="ahvS4al9dqD36LPu7QTx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-39" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;二次过车数据&lt;br&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;coll_ai_&lt;span style=&quot;background-color: initial;&quot;&gt;motorvehicles_standard_dap&lt;/span&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="855" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-40" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;失败过车数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="910" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-41" value="非法车牌号标记" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="845" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-43" target="ahvS4al9dqD36LPu7QTx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-43" value="MQ&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1070" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-45" target="ahvS4al9dqD36LPu7QTx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-45" value="My&amp;nbsp; &amp;nbsp; &amp;nbsp;业务数据" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="720" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahvS4al9dqD36LPu7QTx-47" target="ahvS4al9dqD36LPu7QTx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-47" value="Gauss&amp;nbsp; 离线数据&amp;nbsp; &amp;nbsp;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="885" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-48" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;二次过车数据&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;coll_ai_motorvehicles_standard&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="799.52" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-49" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;旧过车数据&lt;br&gt;motorVehicles_old" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="850" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvS4al9dqD36LPu7QTx-50" value="Ka&amp;nbsp; &amp;nbsp; &amp;nbsp;一次过车数据&lt;br&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;coll_device_&lt;span style=&quot;background-color: initial;&quot;&gt;motorvehicles_standard&lt;/span&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="755" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="顶层DFD" id="_avA92zP6LQk_kZDm_0w">
+    <mxGraphModel dx="655" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560" y="1160" as="sourcePoint" />
+            <mxPoint x="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-2" value="视频网&amp;nbsp; &amp;nbsp; &amp;nbsp; 公安网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1499" y="8" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-8" target="jfd1EiwgyP3VRR4qq_-3-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-4" value="过车" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jfd1EiwgyP3VRR4qq_-3-3">
+          <mxGeometry x="-0.1158" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-8" target="jfd1EiwgyP3VRR4qq_-3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-8" target="jfd1EiwgyP3VRR4qq_-3-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-7" value="违法、过车" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jfd1EiwgyP3VRR4qq_-3-6">
+          <mxGeometry x="0.1675" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-8" value="易华录应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1379" y="315" width="361" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-11" target="jfd1EiwgyP3VRR4qq_-3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-10" value="过车数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jfd1EiwgyP3VRR4qq_-3-9">
+          <mxGeometry x="-0.7963" y="1" relative="1" as="geometry">
+            <mxPoint x="22" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-11" value="新设备:卡口&lt;br&gt;（大华、海康）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="215" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-14" target="jfd1EiwgyP3VRR4qq_-3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-13" value="违法数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jfd1EiwgyP3VRR4qq_-3-12">
+          <mxGeometry x="-0.5905" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-14" value="新设备:电警&lt;br&gt;（大华、海康）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-19" target="jfd1EiwgyP3VRR4qq_-3-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-16" value="违法、过车" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jfd1EiwgyP3VRR4qq_-3-15">
+          <mxGeometry x="-0.5309" y="-2" relative="1" as="geometry">
+            <mxPoint x="7" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-19" target="jfd1EiwgyP3VRR4qq_-3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-18" value="过车" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jfd1EiwgyP3VRR4qq_-3-17">
+          <mxGeometry x="-0.3359" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-19" value="云平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1379" y="535" width="361" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-22" target="jfd1EiwgyP3VRR4qq_-3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-21" value="过车、违法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jfd1EiwgyP3VRR4qq_-3-20">
+          <mxGeometry x="-0.2922" y="-2" relative="1" as="geometry">
+            <mxPoint x="5" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-22" value="旧设备&lt;br&gt;（大华）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="515" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-23" value="用户" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="295" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-26" target="jfd1EiwgyP3VRR4qq_-3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-25" value="告警" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jfd1EiwgyP3VRR4qq_-3-24">
+          <mxGeometry x="-0.0979" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-26" value="市局应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1378.5" y="210" width="361" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jfd1EiwgyP3VRR4qq_-3-28" target="jfd1EiwgyP3VRR4qq_-3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfd1EiwgyP3VRR4qq_-3-28" value="集指平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="535" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
