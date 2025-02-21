@@ -64,6 +64,9 @@
         <mxCell id="CTjedumYjyq66iIp7xSI-1" value="城市智能体，交通一体化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="60" width="175" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CTjedumYjyq66iIp7xSI-2" value="地图：需要确认" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="220" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
